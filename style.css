@@ -1,0 +1,58 @@
+
+body {
+    background-color: rgba(29, 29, 23, 0.911);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+main{
+    max-width: 1024px;
+    margin: 0 auto;
+    border: 1px dashed #fff;
+    border-radius: 10px;
+    background-color: rgba(58, 54, 54, 0.486);
+    
+    
+}
+
+img{
+    border-radius: 5px;
+    float: left;
+    margin: 20px;
+    box-shadow: 2px 2px 30px #000;
+}
+
+.wrapper{
+    margin-left: 20px;
+}
+
+h1 {
+    color: rgb(0, 95, 105);
+    font-size: 2.5rem;
+    margin-left: 150px ;
+}
+
+h2{
+    color: rgb(40, 98, 173);
+    font-size: 1.5rem;
+}
+
+p{
+    color:#FFF;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ul li {
+    color:#FFF;
+}
+
+ul li strong {
+    color: rgb(40, 98, 173); 
+}
+
+ul li a {
+    color: deepskyblue;
+}
